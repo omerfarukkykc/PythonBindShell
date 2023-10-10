@@ -14,3 +14,6 @@ nc 127.0.0.1 4444
 ```bash 
 python -c 'import pty; pty.spawn("/bin/bash")'
 ```
+![PoC](https://github.com/omerfarukkykc/PythonInteractiveBindShell/assets/54690370/7887a05c-2aff-4bd3-b536-1baff863c6e1)
+
+
